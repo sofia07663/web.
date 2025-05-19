@@ -1,0 +1,10 @@
+<estilos.css>
+body {
+  background-color: 	#def7ff;
+  font-family: Calibri, sans-serif;
+  margin: 0 70px; /* Márgenes de 70px a la izquierda y derecha */
+table {
+    background-color: white;
+}
+
+}
